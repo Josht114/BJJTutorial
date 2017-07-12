@@ -37,7 +37,9 @@ margin-top: 10px;
  height: 350px;
   width: 400px;
   
+  }
   
-  
-
-}
+  div.instructions {
+   
+        font-size: 30px;
+} 
